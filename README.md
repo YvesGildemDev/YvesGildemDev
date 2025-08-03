@@ -1,4 +1,4 @@
-<img align="left" height="220" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="left" height="220" src="./img/logo.png"  />
 
 ###
 
